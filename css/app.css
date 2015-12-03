@@ -69,6 +69,24 @@ li{
   top:120px;
   left:175px;
 }
+.tophalf_head{
+  font-size: 45px;
+  color:#959595;
+  font-family: 'Lucida Bright', Georgia, serif;
+  font-style: italic;
+  font-variant: normal;
+  margin: 10px 40px 0px 20px;
+}
+
+.tophalf_text{
+  font-size: 16px;
+  color:#959595;
+  font-family: 'Lucida Bright', Georgia, serif;
+  font-style: normal;
+  font-variant: normal;
+  margin: 10px 40px 0px 20px;
+}
+
 
 #small_left{
   float:left;
@@ -103,7 +121,24 @@ li{
   position:relative;
   float:left;
 
+}
 
+.info_head{
+  font-size:16px
+  font-family: 'Lucida Bright', Georgia, serif;
+  font-style: bold;
+  font-variant: normal;
+  color: #959595;
+  margin: 2px 0px 0px 10px;
+
+}
+
+.info_text{
+  font-size: 12px
+  font-family: 'Lucida Bright', Georgia, serif;
+  font-style: normal;
+  font-variant: normal;
+  color: #959595;
 }
 
 
