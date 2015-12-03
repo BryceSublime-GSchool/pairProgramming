@@ -84,12 +84,37 @@ li{
 #large_right{
   /*margin-right: 100px;*/
 }
-/*
-footer{
-  position:absolute;
-  width: 100%;
-  height: 7%;
-  background-color: #333333;
-  bottom:0px;
 
-}*/
+#bottomhalf{
+  position: relative;
+  /*-webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;*/
+  /*box-sizing: border-box;*/
+  height: 250px;
+  width:420px;
+  margin-right: 15px;
+  background-color: red;
+  top:130px;
+  left:175px;
+  margin-bottom: 10px;
+}
+
+.info{
+  position:relative;
+  float:left;
+
+
+}
+
+
+footer{
+  position:fixed;
+  /*-ms-align-items: flex-end;*/
+  /*align-items: flex-end;*/
+  width: 100%;
+  height: 5%;
+  background-color: #333333;
+
+  bottom: 0%
+
+}
